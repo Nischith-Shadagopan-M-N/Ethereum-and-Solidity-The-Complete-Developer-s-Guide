@@ -1,0 +1,6 @@
+{
+    "solidity.compileUsingRemoteVersion": "v0.4.17+commit.bdeb9e52",
+    "git.ignoreLimitWarning": true,
+    "solidity.compileUsingLocalVersion": "D:\\engg books\\sem 9\\Course code\\node_modules\\solc\\solc.js",
+    "solidity.defaultCompiler": "localNodeModule"
+}
